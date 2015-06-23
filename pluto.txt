@@ -1,2 +1,6 @@
 Its a big ball of ice!!!
+<<<<<<< HEAD
 Of course I am!!!
+=======
+You are correct! Quite the Einstein you are...
+>>>>>>> b1d6048d8ed15ca1b57cf1881fd872953e50c3ed
